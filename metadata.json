@@ -1,0 +1,6 @@
+{
+  "name": "Bibicar OS - Gestão de Oficina Mecânica",
+  "description": "Sistema profissional para gestão de ordens de serviço, orçamentos, clientes, veículos, checklist de vistoria e faturamento para oficinas mecânicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

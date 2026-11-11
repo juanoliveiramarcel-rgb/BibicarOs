@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#dc2626"/>
+  <circle cx="256" cy="256" r="190" fill="#991b1b" stroke="#ffffff" stroke-width="12" opacity="0.3"/>
+  <g fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Car body outline -->
+    <path d="M96 304h320c16 0 28-12 32-28l24-72c4-12-6-24-18-24h-44l-48-64c-12-16-30-24-50-24H192c-20 0-38 8-50 24l-48 64H50c-12 0-22 12-18 24l24 72c4 16 16 28 40 28z" fill="#ffffff" fill-opacity="0.1"/>
+    <!-- Windows -->
+    <path d="M160 180l32-48h128l32 48z"/>
+    <!-- Wheels -->
+    <circle cx="152" cy="340" r="48" fill="#1e293b" stroke="#ffffff" stroke-width="20"/>
+    <circle cx="360" cy="340" r="48" fill="#1e293b" stroke="#ffffff" stroke-width="20"/>
+    <circle cx="152" cy="340" r="16" fill="#ffffff"/>
+    <circle cx="360" cy="340" r="16" fill="#ffffff"/>
+    <!-- Wrench cross emblem -->
+    <path d="M220 250l72 72M292 250l-72 72"/>
+  </g>
+  <text x="256" y="445" font-family="Arial, sans-serif" font-weight="900" font-size="52" fill="#ffffff" text-anchor="middle" letter-spacing="4">BIBICAR</text>
+</svg>
